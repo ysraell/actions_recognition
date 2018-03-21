@@ -1,0 +1,5 @@
+close all
+clear all
+clc
+
+load HDM_mot_joint_trajectories_3D_normalizado_interpolado_atores.mat
